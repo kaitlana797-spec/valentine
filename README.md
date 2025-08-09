@@ -1,4 +1,4 @@
-# Valentine Surprise
+# I LOVE YOU ZULFAN
 
 ## 💌 About the Project
 
@@ -6,7 +6,7 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 
 ## ✨ Features
 - Animated envelope that opens and closes
-- A sweet Valentine's message inside the letter
+- A sweet love message inside the letter 
 - A charming floral decoration
 - Responsive design
 
@@ -35,5 +35,5 @@ A simple and charming Valentine's Day animation featuring an interactive envelop
 ## 📝 License
 This project is open-source and available under the MIT License.
 
-💖 Made with love for Valentine's Day!
+💖 Made with love for you!
 
